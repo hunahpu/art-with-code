@@ -4,6 +4,8 @@ Exploring art, math and random ideas with [Processing](https://processing.org/) 
 
 Some of this and other ideas porting to Rust [Art with Rust](https://github.com/GoberInfinity/art-with-rust) by Gober Infinity.
 
-#### Dancing Squares
+| Dancing Squares                              | Dancing Circles                       |
+| -------------------------------------------- | ------------------------------------- |
+| ![](dancing_squares/dancing_black_white.gif) | ![](concentrical_circles/circles.gif) |
 
-![](dancing_squares/dancing_black_white.gif)
+
